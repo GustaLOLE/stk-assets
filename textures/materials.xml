@@ -120,7 +120,9 @@
 
   <material name="flaring-star.png"      shader="additive" ignore="Y"/>
   <material name="smoke.png"             shader="alphablend" ignore="Y"/>
+  <material name="smoke_nitro_nolok.png" shader="alphablend" ignore="Y" />
   <material name="smoke_nitro.png"       shader="alphablend" ignore="Y" />
+  <material name="nitro-particle-nolok.png" shader="additive" ignore="Y" />
   <material name="smoke_yellow.png"      shader="alphablend" ignore="Y"/>
 
     <material name="gfx_sandJetblast_a.png"  shader="alphablend" ignore="Y"/> 
